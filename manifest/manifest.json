@@ -2,10 +2,10 @@
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.7/MicrosoftTeams.schema.json",
   "manifestVersion": "devPreview",
   "version": "1.0.0",
-  "id": "32cdab16-7c7c-40bc-94ac-c764e91d85a6",
+  "id": "32cdab16-7c7c-40bc-94ac-c764e91d85a8",
   "packageName": "com.microsoft.teams.videopp",
   "developer": {
-    "name": "Microsoft",
+    "name": "Yangjingce",
     "websiteUrl": "https://microsoft.github.io/teams-videoapp-sample/",
     "privacyUrl": "https://privacy.microsoft.com/en-us/privacystatement/",
     "termsOfUseUrl": "https://www.microsoft.com/en-us/servicesagreement/"
@@ -57,6 +57,6 @@
         "thumbnail": "gray.png"
       }
     ],
-    "videoAppContentUrl": "https://microsoft.github.io/teams-videoapp-sample/app/"
+    "videoAppContentUrl": "https://yangjingce.github.io/teams-videoapp-sample/app/"
   }
 }
